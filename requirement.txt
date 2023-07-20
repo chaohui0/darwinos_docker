@@ -1,0 +1,16 @@
+opencv-python
+scipy
+matplotlib
+tables
+librosa
+tqdm
+gym
+networkx
+pandas
+pyyaml
+func_timeout
+zmq
+torch
+h5py
+numpy
+pyside2
